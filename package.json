@@ -1,0 +1,61 @@
+{
+  "name": "gulp-browserify-starter",
+  "version": "1.0.0",
+  "description": "automation tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "gulp": "gulp-src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jconiconde/gulp-browserify-starter.git"
+  },
+  "keywords": [
+    "gulp-browserify"
+  ],
+  "author": "jconiconde",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jconiconde/gulp-browserify-starter/issues"
+  },
+  "homepage": "https://github.com/jconiconde/gulp-browserify-starter#readme",
+  "devDependencies": {
+    "babel-eslint": "^4.1.6",
+    "browser-sync": "^2.11.1",
+    "browserify": "^13.0.0",
+    "chokidar": "^1.4.2",
+    "eslint": "^1.10.3",
+    "eslint-config-defaults": "^8.0.2",
+    "exorcist": "^0.4.0",
+    "gulp": "^3.9.0",
+    "gulp-add-src": "^0.2.0",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-csso": "^1.0.1",
+    "gulp-eslint": "^1.1.1",
+    "gulp-filter": "^3.0.1",
+    "gulp-if": "^2.0.0",
+    "gulp-load-plugins": "^1.2.0",
+    "gulp-nodemon": "^2.0.6",
+    "gulp-notify": "^2.2.0",
+    "gulp-plumber": "^1.0.1",
+    "gulp-sass": "^2.1.1",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-util": "^3.0.7",
+    "ip": "^1.1.0",
+    "lodash": "^4.0.0",
+    "node-sass": "^3.4.2",
+    "nodemon": "^1.8.1",
+    "object-assign": "^4.0.1",
+    "require-dir": "^0.3.0",
+    "vinyl-source-stream": "^1.1.0",
+    "vinyl-transform": "^1.0.0",
+    "watchify": "^3.7.0",
+    "yargs": "^3.32.0"
+  },
+  "dependencies": {
+    "babelify": "^7.2.0",
+    "express": "^4.13.4"
+  }
+}
