@@ -1,6 +1,6 @@
 # Gulp - Browserify - Starter
 
-Build system that's inspired by : 
+Build system template that's inspired by : 
 
   - https://github.com/johnpapa/generator-hottowel
   - https://github.com/vigetlabs/gulp-starter
