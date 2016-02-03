@@ -36,7 +36,7 @@ $ npm i -g gulp
 ```sh
 $ git clone [gulp-browserify-starter]
 $ cd gulp-browserify-starter
-$ npm i -d
+$ npm i
 ```
 
 
@@ -47,7 +47,7 @@ $ gulp
 ```
 * Running in dev mode
 * Opens it in a browser and updates the browser with any files changes.
-* Generate source map for JS & CSS
+* Generates source map for JS & CSS
 
 
 ```sh
