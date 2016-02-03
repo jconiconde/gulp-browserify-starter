@@ -56,7 +56,15 @@ $ gulp js
 ```sh
 $ gulp css
 ```
-
+```sh
+$ gulp fonts
+```
+```sh
+$ gulp fonts
+```
+```sh
+$ gulp eslint
+```
 
 ### Todos
 
