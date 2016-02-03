@@ -45,7 +45,7 @@ $ npm i
 ```sh
 $ gulp
 ```
-* Running in dev mode
+* Start compiling, serving, and watching files
 * Opens it in a browser and updates the browser with any files changes.
 * Generates source map for JS & CSS
 
